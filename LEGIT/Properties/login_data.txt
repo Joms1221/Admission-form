@@ -1,3 +1,0 @@
-a:a
-user2:password2
-admin:admin123

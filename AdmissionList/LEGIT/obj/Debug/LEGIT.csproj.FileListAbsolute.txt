@@ -1,0 +1,12 @@
+C:\Users\abata\source\repos\LEGIT\LEGIT\bin\Debug\LEGIT.exe
+C:\Users\abata\source\repos\LEGIT\LEGIT\bin\Debug\LEGIT.exe.config
+C:\Users\abata\source\repos\LEGIT\LEGIT\obj\Debug\LEGIT.csproj.AssemblyReference.cache
+C:\Users\abata\source\repos\LEGIT\LEGIT\obj\Debug\LEGIT.Form1.resources
+C:\Users\abata\source\repos\LEGIT\LEGIT\obj\Debug\LEGIT.Form2.resources
+C:\Users\abata\source\repos\LEGIT\LEGIT\obj\Debug\LEGIT.Form3.resources
+C:\Users\abata\source\repos\LEGIT\LEGIT\obj\Debug\LEGIT.Properties.Resources.resources
+C:\Users\abata\source\repos\LEGIT\LEGIT\obj\Debug\LEGIT.csproj.GenerateResource.cache
+C:\Users\abata\source\repos\LEGIT\LEGIT\obj\Debug\LEGIT.csproj.CoreCompileInputs.cache
+C:\Users\abata\source\repos\LEGIT\LEGIT\obj\Debug\LEGIT.exe
+C:\Users\abata\source\repos\LEGIT\LEGIT\obj\Debug\LEGIT.pdb
+C:\Users\abata\source\repos\LEGIT\LEGIT\bin\Debug\LEGIT.pdb
